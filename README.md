@@ -83,8 +83,6 @@ To run this project, you will need to create a .env file in the backend folder o
 5) Open your browser and visit http://localhost:5173 to view the project app locally.
 
 
-deployment - https://email-marketing-sequencer-webapp.vercel.app/
-
 
 ## Deployment
 
